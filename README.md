@@ -1,5 +1,8 @@
 # hotel_reservations_system
 Trabajo Final Sistema de Reservas de Hotel COMP3400.SOFTWARE ENGINEERING
+
+
+
 Instalación
 Paso 1: Preparar las Máquinas Virtuales
 Asegúrate de que las VMs estén configuradas correctamente con las siguientes direcciones IP:
